@@ -1,0 +1,5 @@
+  pack-requirements:
+    Keil::MDK-Middleware: Keil::MDK-Middleware_Graphics
+    ARM::CMSIS:
+      - ARM::CMSIS-NN
+      - ARM::CMSIS-DSP
